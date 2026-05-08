@@ -1,3 +1,4 @@
 add user and remove 
 manages everything...
 manage databases
+change the roles
